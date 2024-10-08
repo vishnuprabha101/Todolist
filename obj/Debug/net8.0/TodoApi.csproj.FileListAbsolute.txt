@@ -1,0 +1,7 @@
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.csproj.AssemblyReference.cache
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.AssemblyInfoInputs.cache
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.AssemblyInfo.cs
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.csproj.CoreCompileInputs.cache
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
