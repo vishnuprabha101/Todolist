@@ -460,19 +460,19 @@
     ]
   },
   "packageFolders": {
-    "/home/vishnu/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/TodoApi.csproj",
+      "projectUniqueName": "/workspaces/Todolist/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/TodoApi.csproj",
-      "packagesPath": "/home/vishnu/.nuget/packages/",
-      "outputPath": "/home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/",
+      "projectPath": "/workspaces/Todolist/TodoApi.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/Todolist/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/vishnu/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -490,6 +490,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -524,7 +529,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

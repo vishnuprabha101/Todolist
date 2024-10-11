@@ -5,3 +5,37 @@
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.csproj.CoreCompileInputs.cache
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/New Folder/TodoApi/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Todolist/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/Todolist/bin/Debug/net8.0/appsettings.json
+/workspaces/Todolist/bin/Debug/net8.0/TodoApi
+/workspaces/Todolist/bin/Debug/net8.0/TodoApi.deps.json
+/workspaces/Todolist/bin/Debug/net8.0/TodoApi.runtimeconfig.json
+/workspaces/Todolist/bin/Debug/net8.0/TodoApi.dll
+/workspaces/Todolist/bin/Debug/net8.0/TodoApi.pdb
+/workspaces/Todolist/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/Todolist/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspaces/Todolist/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/Todolist/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/Todolist/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.csproj.AssemblyReference.cache
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.AssemblyInfoInputs.cache
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.AssemblyInfo.cs
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.csproj.CoreCompileInputs.cache
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.sourcelink.json
+/workspaces/Todolist/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/Todolist/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/Todolist/obj/Debug/net8.0/staticwebassets/msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/Todolist/obj/Debug/net8.0/staticwebassets/msbuild.build.TodoApi.props
+/workspaces/Todolist/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TodoApi.props
+/workspaces/Todolist/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TodoApi.props
+/workspaces/Todolist/obj/Debug/net8.0/staticwebassets.pack.json
+/workspaces/Todolist/obj/Debug/net8.0/scopedcss/bundle/TodoApi.styles.css
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.csproj.Up2Date
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.dll
+/workspaces/Todolist/obj/Debug/net8.0/refint/TodoApi.dll
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.pdb
+/workspaces/Todolist/obj/Debug/net8.0/TodoApi.genruntimeconfig.cache
+/workspaces/Todolist/obj/Debug/net8.0/ref/TodoApi.dll
